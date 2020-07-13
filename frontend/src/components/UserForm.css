@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    margin: 40px 40px;
+}
+
+.form-wrapper {
+    width: 40%;
+    float: left;
+    margin-right: 30px;
+}
+
+@media screen and (min-width: 750px) {
+    input {
+        margin-left: 40px;
+        margin-bottom: 20px;
+        width: 50%;
+    }
+    button {
+        margin-left: 40px;
+        margin-bottom: 20px;
+    }
+
+    .upload-status {
+        margin-left: 40px;
+        color: green;
+    }
+
+    .tweet-msg{
+        margin-left: 40px;
+    }
+
+    img {
+        width: 400px;
+        margin-left: 40px;
+    }
+}
+
+.tweets {
+    float: "right";
+}
