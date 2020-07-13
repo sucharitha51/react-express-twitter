@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@babel/runtime": "7.0.0-beta.55",
-    "axios": "^0.17.1",
+    "axios": "^0.18.1",
     "babel": "^6.23.0",
     "babel-runtime": "^6.26.0",
     "react": "^16.2.0",
